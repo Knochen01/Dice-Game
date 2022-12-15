@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Knochen01.github.io/Dice-Game/static/css/main.b13fda8d.css",
+    "main.js": "/Knochen01.github.io/Dice-Game/static/js/main.608c5fe4.js",
+    "static/js/787.3813469c.chunk.js": "/Knochen01.github.io/Dice-Game/static/js/787.3813469c.chunk.js",
+    "index.html": "/Knochen01.github.io/Dice-Game/index.html",
+    "main.b13fda8d.css.map": "/Knochen01.github.io/Dice-Game/static/css/main.b13fda8d.css.map",
+    "main.608c5fe4.js.map": "/Knochen01.github.io/Dice-Game/static/js/main.608c5fe4.js.map",
+    "787.3813469c.chunk.js.map": "/Knochen01.github.io/Dice-Game/static/js/787.3813469c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13fda8d.css",
+    "static/js/main.608c5fe4.js"
+  ]
+}
